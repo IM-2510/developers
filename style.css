@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    font-family: "Sacremento", cursive;
+    color: crimson;
+    font-size: 40px;
+}
+
+h2 {
+    color:rebeccapurple;
+    font-size: 2.5rem;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.top-container{
+background-color: skyblue;
+position: relative;
+padding-top: 250px;
+
+}
+
+.cloud{
+    position: absolute;
+    right: 10%;
+
+}
+
+.clouds{
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+}
+
+.mid-container{
+   margin: 100px 0; 
+   color: skyblue;
+}
+
